@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "expo",
+		"path": "..\\..\\..\\expo"
+	},
+	{
+		"name": "Alisa",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Alisa"
+  }
+}
